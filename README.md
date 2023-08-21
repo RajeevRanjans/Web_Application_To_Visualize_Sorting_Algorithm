@@ -50,12 +50,8 @@ We welcome contributions from the community! If you're interested in adding more
 
 If you have any feedback, suggestions, or issues, feel free to [open an issue](https://github.com/sorting-algorithms-visualizer/issues). We're here to help and make this tool even better!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Explore the fascinating world of sorting algorithms through interactive visualizations. Happy sorting!
 
-**The Sorting Algorithms Visualizer Team**
+**The Sorting Algorithms Visualizer **
